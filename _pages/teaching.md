@@ -14,7 +14,9 @@ If I become a TA that is.
 
 CSM 16A
 ======
-CSM 16A Onboarding Resources, Guides
+[Summary of responsibilities in CSM 16A]
+
+You can check released resources at [here]{branthre.github.io/teaching/csm16a/}
 
 EECS 16A
 ======

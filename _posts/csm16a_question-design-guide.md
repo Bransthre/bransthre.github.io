@@ -1,11 +1,10 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'CSM 16A: Question, Solution, Meta Writing Guide'
+date: 2023-05-26
+permalink: /posts/csm-16a/question-design-guide/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - CSM16A
+  - Team Resource
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
