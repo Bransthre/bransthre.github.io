@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /teaching/
 title: "Summary of Dun-Ming Huang"
 excerpt: "Teaching Resources"
+author_profile: true
 redirect_from: 
-  - /teaching/
   - /teaching.html
 ---
 WORK IN PROGRESS :gull_scream:

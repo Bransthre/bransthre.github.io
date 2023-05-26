@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /student/
 title: "Summary of Dun-Ming Huang"
 excerpt: "As a Student"
+author_profile: true
 redirect_from: 
-  - /student/
   - /student.html
 ---
 WORK IN PROGRESS :gull_scream:
