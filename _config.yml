@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dun-Ming (Brandon) Huang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Medium: https://medium.com/@bransthre"
   location         : "Berkeley, CA"
   employer         : 
   pubmed           : 
@@ -103,7 +103,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/dun-ming-h-60b895137/"
-  medium           : "https://medium.com/@bransthre"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
