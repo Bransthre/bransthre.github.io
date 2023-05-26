@@ -1,7 +1,7 @@
 ---
 title: 'CSM 16A: Question, Solution, Meta Writing Guide'
 date: 2023-05-26
-permalink: /posts/csm-16a/question-design-guide/
+permalink: /teaching/csm-16a/question-design-guide/
 tags:
   - CSM16A
   - Team Resource

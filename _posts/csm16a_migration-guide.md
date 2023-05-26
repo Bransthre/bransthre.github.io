@@ -1,7 +1,7 @@
 ---
 title: 'CSM 16A: Overleaf to Git Transition Guide'
 date: 2023-05-26
-permalink: /posts/csm-16a/migration-guide/
+permalink: /teaching/csm-16a/migration-guide/
 tags:
   - CSM16A
   - Team Resource
