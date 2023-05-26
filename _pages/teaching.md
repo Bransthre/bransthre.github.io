@@ -16,7 +16,7 @@ CSM 16A
 ======
 [Summary of responsibilities in CSM 16A]
 
-You can check released resources at [here]{bransthre.github.io/teaching/csm16a/}
+You can check released resources at [here](bransthre.github.io/teaching/csm16a/)
 
 EECS 16A
 ======
