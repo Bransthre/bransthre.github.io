@@ -7,6 +7,7 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
+All of these are directly inherited from the website template. I am not this good at writing law-related terms.
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
