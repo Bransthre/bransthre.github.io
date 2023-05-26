@@ -16,7 +16,9 @@ CSM 16A
 ======
 [Summary of responsibilities in CSM 16A]
 
-You can check released resources at [here](bransthre.github.io/teaching/csm16a/)
+Now, here is a list of released resources:
+- [Migration Guide from Overlead to Git](../_posts/csm16a_migration-guide.md)
+- [Question Writing Guide for CSM 16A](../_posts/csm16a_writing-guide.md)
 
 EECS 16A
 ======
