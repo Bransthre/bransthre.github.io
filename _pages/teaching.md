@@ -16,7 +16,7 @@ CSM 16A
 ======
 [Summary of responsibilities in CSM 16A]
 
-For more details visit [here](/tag/#csm16a)
+For more details visit [here](/tags/#csm16a)
 
 EECS 16A
 ======
