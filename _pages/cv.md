@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-WORK IN PROGRESS.
+My CV, Resume can be found at the respective links: WIP.
 
 Education
 ======

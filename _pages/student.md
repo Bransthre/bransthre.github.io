@@ -1,20 +1,23 @@
 ---
 permalink: /student/
-title: "Summary of Dun-Ming Huang"
+title: ""
 excerpt: "As a Student"
 author_profile: true
 redirect_from: 
   - /student.html
 ---
-WORK IN PROGRESS :gull_scream:
-I will only provide resources for courses I get an exceptional grade in, for the sake of quality.
-Although, for most A+ courses I have very bad notes.
+I only provide resources for courses I get an exceptional grade in, for the sake of eligibility.
+Although, for most A+ courses I have very incomprehensible notes, and they are therefore not publicized.
 
 COMPSCI 70
 ======
-something
+My notes for COMPSCI 70 can be found at: https://github.com/Bransthre/cs70-lec-notes .\
+Additionally, I have written an embarrassing course review here:
+https://medium.com/@bransthre/course-review-compsci-70-894ebc71991e
 
 EECS 127
 ======
-something
-
+My notes for EECS 127 can be found at: https://github.com/Bransthre/eecs127-notes. \
+By course policy of EECS 127, my group's results of course project will not be publicized, but we will
+discuss our results to the degree where technical details are not revealed, and we simply review the
+literature referenced in our report.
