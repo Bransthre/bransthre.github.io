@@ -5,6 +5,9 @@ main:
 
   - title: "Personal Resources"
     url: /student/
-    
+
+  - title: "Coursework"
+    url: /coursework/
+
   - title: "CV"
     url: /cv/

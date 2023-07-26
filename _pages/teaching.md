@@ -10,7 +10,7 @@ This section hosts pedagogical resources that I have publicized during my underg
 
 DATA C100
 ======
-In Fall 2023, I hosted a discussion section.\
+In Fall 2023, I hosted (or am hosting, depends on the time this is read) a discussion section.\
 Here is a table of resources that I have publicized during that section:
 
 | Section Number: Title                          | Section Date  | Slides |
@@ -35,13 +35,15 @@ CSM EECS 16A
 As a former Senior Content Mentor and a current course coordinator in CSM EECS 16A team, I have created some resources
 regarding content production and teaching 16A. A list of publicized resources follow.
 ## Worksheet Problems
-WIP
+WIP (There is A LOT)
 
 ## Exam Reviews
-WIP
+FA22 Finals Review Session, Cohosted with several other colleagues: [here](https://www.youtube.com/watch?v=fTJHXGv5iUM)
 
 ## Exam Walkthroughs
-WIP
+EECS 16A SP22 Finals Walkthrough: [here](https://www.youtube.com/watch?v=EKBL9izmfgg&list=PL2Zt5-p8lNzSk01oL5AtRa4nzovw06sQG&pp=iAQB)\
+EECS 16A FA21 Finals Walkthrough: [here](https://www.youtube.com/watch?v=0Vbe1sPvLPU&list=PL2Zt5-p8lNzTiFKXYYYSaj2t7mbFRWJka&pp=iAQB)
 
 ## LaTeX
-WIP
+General LaTeX Walkthrough: [here](https://www.youtube.com/watch?v=CD9vNUgN33Q&list=PL2Zt5-p8lNzQ0ccnHPR-0PfjxCIk9tUHr&pp=iAQB)\
+Circuitikz Tutorial: [here](https://www.youtube.com/watch?v=1tY3SBO3Gr4)
