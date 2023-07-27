@@ -1,12 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV_2023.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-My CV, Resume can be found at the respective links: WIP.
