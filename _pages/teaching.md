@@ -13,7 +13,7 @@ DATA C100
 In Fall 2023, I hosted (or am hosting, depends on the time this is read) a discussion section.\
 My section (is expected) to be at **VLSB 2062, Wednesdays, 12pm-1pm**.
 Very soon I shall not be referred to by name, but the last thing that stands between my students and their lunch.\
-Regardless of that, here is a table of resources that I have publicized during that section:
+Regardless of that, here is a table of resources that I have publicized during that section: 
 
 | Section Number: Title                          | Section Date | Slides |
 |------------------------------------------------|--------------|--------|
