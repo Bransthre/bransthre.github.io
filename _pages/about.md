@@ -16,14 +16,12 @@ During summer of 2023, I was interning at Max Planck Institute for Empirical Aes
 [Computational Audition Group](
 https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html
 ),
-where I worked on several projects. I am currently continuing this collaboration without pay, and am currently working
-on a publication and the continuation of another research project.
-
-My research interest aligns with the general problem of "What should humans and AI do to facilitate their coexistence
-in a future society?" This curiosity brought me to a self-exploration project called LiP (LiaisonPartner), which is
-a virtual personal assistant for managing my mental health. Over this self-initiated project I learned fullstack
-engineering: especially on UI interfaces and statistical learning algorithms that support the backend of this
-application.
+where I worked on several projects.
+I now participate in research at this group in the form of ongoing collaborator, with two first/second-author projects on hand that we plan to lead into publications for.
+To broaden my horizon and vision on different research disciplines within machine learning, I am currently entering reinforcement learning robotics research at
+[Robot Learning Lab](
+    https://rll.berkeley.edu/
+).
 
 In U.C. Berkeley, I have primarily focused on pedagogical works and courses. I have completed an awarded
 [Data Science Discovery project in collaboration with Creative Commons](
@@ -39,8 +37,13 @@ and coordinate the EECS 16A branch of
 [Computer Science Mentors](
 https://csmentors.berkeley.edu/
 )
-at Berkeley with another student. I am currently seeking research opportunities during the semester while continuing
-collaboration with the aforementioned research group.
+at Berkeley with another student.
+
+My research interest aligns with the general problem of "What should humans and AI do to facilitate their coexistence
+in a future society?" This curiosity brought me to a self-exploration project called LiP (LiaisonPartner), which is
+a virtual personal assistant for managing my mental health. Over this self-initiated project I learned fullstack
+engineering: especially on UI interfaces and statistical learning algorithms that support the backend of this
+application.
 
 My current works concern Human-Computer Interaction and representational alignment. Apart from the theoretical
 studies of my current courseworks in engineering mathematics and machine learning, in my research, I also study a
