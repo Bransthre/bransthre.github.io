@@ -18,7 +18,7 @@ Here is a table of resources that I have publicized during that section:
 | Section Number: Title                          | Section Date | Slides                                                                                                       |
 |------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
 | 01: Linear Algebra Review                      | 29/08        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing) |
-| 02: Pandas                                     | 05/09        | N/A                                                                                                          |
+| 02: Pandas                                     | 05/09        | [Here](https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing) |
 | 03: EDA and Text Wrangling                     | 12/09        | N/A                                                                                                          |
 | 04: Visualization                              | 19/09        | N/A                                                                                                          |
 | 05: Sampling and Modeling                      | 26/09        | N/A                                                                                                          |
