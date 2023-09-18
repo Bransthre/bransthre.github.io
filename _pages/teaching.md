@@ -20,7 +20,7 @@ Here is a table of resources that I have publicized during that section:
 | 01: Linear Algebra Review                       | 29/08        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing) |
 | 02: Pandas                                      | 05/09        | [Here](https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing) |
 | 03: Content is Previewed at Section 02 already. | 12/09        | N/A                                                                                                          |
-| 04: Visualization                               | 19/09        | N/A                                                                                                          |
+| 04: Data Wrangling                              | 19/09        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
 | 05: Sampling and Modeling                       | 26/09        | N/A                                                                                                          |
 | 06: Ordinary Least Squares                      | 03/10        | N/A                                                                                                          |
 | 07: HCE, Gradient Descent, Feature Engineering  | 10/10        | N/A                                                                                                          |
