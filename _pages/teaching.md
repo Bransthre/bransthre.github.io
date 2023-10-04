@@ -22,7 +22,7 @@ Here is a table of resources that I have publicized during that section:
 | 03: Content is Previewed at Section 02 already. | 12/09        | N/A                                                                                                          |
 | 04: Data Wrangling                              | 19/09        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
 | 05: Visualization                               | 26/09        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
-| 06: Sampling, Modeling, Ordinary Least Squares  | 03/10        | N/A                                                                                                          |
+| 06: Sampling, Modeling, Ordinary Least Squares  | 03/10        | [Here](https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing) |
 | 07: HCE, Gradient Descent, Feature Engineering  | 10/10        | N/A                                                                                                          |
 | 08: Regarding Overfitting and Underfitting      | 17/10        | N/A                                                                                                          |
 | 09: HCE, Introduction to Probabilities          | 24/10        | N/A                                                                                                          |
