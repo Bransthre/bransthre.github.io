@@ -23,14 +23,14 @@ Here is a table of resources that I have publicized during that section:
 | 04: Data Wrangling                              | 19/09        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
 | 05: Visualization                               | 26/09        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
 | 06: Sampling, Modeling, Ordinary Least Squares  | 03/10        | [Here](https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing) |
-| 07: HCE, Gradient Descent, Feature Engineering  | 10/10        | [Here](https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing) |
-| 08: Regarding Overfitting and Underfitting      | 17/10        | N/A                                                                                                          |
-| 09: HCE, Introduction to Probabilities          | 24/10        | N/A                                                                                                          |
-| 10: Bias, Variance, and Tradeoff                | 31/10        | N/A                                                                                                          |
-| 11: SQL                                         | 07/11        | N/A                                                                                                          |
-| 12: PCA                                         | 14/11        | N/A                                                                                                          |
-| 13: Logistic Regression                         | 21/11        | N/A                                                                                                          |
-| 14: Unsupervised Learning: Clustering           | 28/11        | N/A                                                                                                          |
+| 07: Ordinary Least Squares                      | 10/10        | [Here](https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing) |
+| 08: Midterm Review                              | 17/10        | No Slides                                                                                                    |
+| 09: HCE, Feature Engineering                    | 24/10        | [Here](https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing) |
+| 10: ???                                         | 31/10        | N/A                                                                                                          |
+| 11: ???                                         | 07/11        | N/A                                                                                                          |
+| 12: ???                                         | 14/11        | N/A                                                                                                          |
+| 13: ???                                         | 21/11        | N/A                                                                                                          |
+| 14: ???                                         | 28/11        | N/A                                                                                                          |
 
 CSM EECS 16A
 ======
