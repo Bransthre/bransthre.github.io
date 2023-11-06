@@ -27,7 +27,7 @@ Here is a table of resources that I have publicized during that section:
 | 08: Midterm Review                              | 17/10        | No Slides                                                                                                    |
 | 09: HCE, Feature Engineering                    | 24/10        | [Here](https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing) |
 | 10: RV, Bias-Variance Tradeoff                  | 31/10        | [Here](https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing) |
-| 11: ???                                         | 07/11        | N/A                                                                                                          |
+| 11: SQL                                         | 07/11        | [Here](https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing) |
 | 12: ???                                         | 14/11        | N/A                                                                                                          |
 | 13: ???                                         | 21/11        | N/A                                                                                                          |
 | 14: ???                                         | 28/11        | N/A                                                                                                          |
