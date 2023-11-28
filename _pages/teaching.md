@@ -24,13 +24,12 @@ Here is a table of resources that I have publicized during that section:
 | 05: Visualization                               | 26/09        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
 | 06: Sampling, Modeling, Ordinary Least Squares  | 03/10        | [Here](https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing) |
 | 07: Ordinary Least Squares                      | 10/10        | [Here](https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing) |
-| 08: Midterm Review                              | 17/10        | No Slides                                                                                                    |
+| 08: Midterm Review                              | 17/10        | No Slides, only boardworks|
 | 09: HCE, Feature Engineering                    | 24/10        | [Here](https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing) |
 | 10: RV, Bias-Variance Tradeoff                  | 31/10        | [Here](https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing) |
 | 11: SQL                                         | 07/11        | [Here](https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing) |
-| 12: ???                                         | 14/11        | N/A                                                                                                          |
-| 13: ???                                         | 21/11        | N/A                                                                                                          |
-| 14: ???                                         | 28/11        | N/A                                                                                                          |
+| 12: Logistic Regression                         | 14/11        | [Here](https://docs.google.com/presentation/d/1hk6_eRJNyrieGDhbT6mj9cFD9v3QjG1Wkv819obV8aE/edit?usp=sharing) |
+| 13: PCA                                         | 28/11        | [Here](https://docs.google.com/presentation/d/1ucIcXpRBLtCC5TajoverkUgu2c0N6uB395twd0WJGPc/edit?usp=sharing) |
 
 CSM EECS 16A
 ======
