@@ -10,21 +10,28 @@ redirect_from:
 This page hosts a list of courseworks I have currently taken as an undergraduate.
 Only courses with exceptional (beyond-A) grades are marked so.
 
+### Spring 2024
+**EECS 126**
+**COGSCI 132**
+**COM LIT 60AC**
+**INFO 103**
+(This semester's schedule is a bit less technical! Because (1) I am preparing for a third research position, and (2) My cognitive science electives need to be completed at some point, and many of them are by nature less technical.)
+
 ### Fall 2023
 *Note: enrollment for Fall 2023 semester is ongoing.
 
-**COMPSCI 61C:** Great Ideas of Computer Architecture (Machine Structures)\
+**COMPSCI 61C:** Great Ideas of Computer Architecture (Machine Structures) (A+)\
 The internal organization and operation of digital computers.
 Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching).
 Elements of computer logic design.
 Tradeoffs involved in fundamental architectural design decisions.
 
-**COMPSCI 285:** Deep Reinforcement Learning\
+**COMPSCI 285:** Deep Reinforcement Learning (A)\
  Intersection of control, reinforcement learning, and deep learning. Deep learning methods, which train large parametric function approximators, achieve excellent results on problems that require reasoning about unstructured real-world situations (e.g., computer vision, speech recognition, NLP). Advanced treatment of the reinforcement learning formalism, the most critical model-free reinforcement learning algorithms (policy gradients, value function and Q-function learning, and actor-critic), a discussion of model-based reinforcement learning algorithms, an overview of imitation learning, and a range of advanced topics (e.g., exploration, model-based learning with video prediction, transfer learning, multi-task learning, and meta-learning).
 
-**COGSCI C100:** Basic Issues in Cognition
+**COGSCI C100:** Basic Issues in Cognition (A)
 
-**ISF 100A:** Introduction to Social Theory and Cultural Analysis
+**ISF 100A:** Introduction to Social Theory and Cultural Analysis (P)
 
 ### Spring 2023
 **COMPSCI 189:** Introduction to Machine Learning (A+)\

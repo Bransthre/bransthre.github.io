@@ -11,25 +11,58 @@ This section hosts pedagogical resources that I have publicized during my underg
 DATA C100
 ======
 In Fall 2023, I hosted (or am hosting, depends on the time this is read) a discussion section.\
-My section (is expected) to be at **Wheeler 200, Tuesdays, 3pm-4pm**.
+In Spring 2024, I am hosting a discussion section as well.
+My section (is expected) to be at **Etcheverry 3105, Wednesday, 11am-12pm**.\
+*Note: Unfortunately, I have a lab meeting right after this discussion section, so please send me emails or post on Ed instead if you have any questions :p
 
 Here is a table of resources that I have publicized during that section: 
 
-| Section Number: Title                           | Section Date | Slides                                                                                                       |
-|-------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
-| 01: Linear Algebra Review                       | 29/08        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing) |
-| 02: Pandas                                      | 05/09        | [Here](https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing) |
-| 03: Content is Previewed at Section 02 already. | 12/09        | N/A                                                                                                          |
-| 04: Data Wrangling                              | 19/09        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
-| 05: Visualization                               | 26/09        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
-| 06: Sampling, Modeling, Ordinary Least Squares  | 03/10        | [Here](https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing) |
-| 07: Ordinary Least Squares                      | 10/10        | [Here](https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing) |
-| 08: Midterm Review                              | 17/10        | No Slides, only boardworks|
-| 09: HCE, Feature Engineering                    | 24/10        | [Here](https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing) |
-| 10: RV, Bias-Variance Tradeoff                  | 31/10        | [Here](https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing) |
-| 11: SQL                                         | 07/11        | [Here](https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing) |
-| 12: Logistic Regression                         | 14/11        | [Here](https://docs.google.com/presentation/d/1hk6_eRJNyrieGDhbT6mj9cFD9v3QjG1Wkv819obV8aE/edit?usp=sharing) |
-| 13: PCA                                         | 28/11        | [Here](https://docs.google.com/presentation/d/1ucIcXpRBLtCC5TajoverkUgu2c0N6uB395twd0WJGPc/edit?usp=sharing) |
+| Section Number: Title                          | Section Date | Slides         |
+|------------------------------------------------|--------------|----------------|
+| 01: Linear Algebra Review                      | 24/01        | Not public yet |
+| 02: Pandas                                     | 31/01        | Not public yet |
+| 03: Pandas II                                  | 07/02        | Not public yet |
+| 04: Data Wrangling                             | 14/02        | Not public yet |
+| 05: Visualization                              | 21/02        | Not public yet |
+| 06: Sampling, Modeling, Ordinary Least Squares | 28/02        | Not public yet |
+| 07: Ordinary Least Squares                     | 06/03        | Not public yet |
+| 08: Midterm Review                             | 13/03        | Not public yet |
+| 09: HCE, Feature Engineering                   | 20/03        | Not public yet |
+| 10: RV, Bias-Variance Tradeoff                 | 03/04        | Not public yet |
+| 11: SQL                                        | 10/04        | Not public yet |
+| 12: Logistic Regression                        | 17/04        | Not public yet |
+| 13: PCA                                        | 24/04        | Not public yet |
+
+[//]: # ()
+[//]: # (| Section Number: Title                           | Section Date | Slides                                                                                                       |)
+
+[//]: # (|-------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|)
+
+[//]: # (| 01: Linear Algebra Review                       | 24/01        | [Here]&#40;https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing&#41; |)
+
+[//]: # (| 02: Pandas                                      | 31/01        | [Here]&#40;https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing&#41; |)
+
+[//]: # (| 03: Content is Previewed at Section 02 already. | 07/02        | N/A                                                                                                          |)
+
+[//]: # (| 04: Data Wrangling                              | 14/02        | [Here]&#40;https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing&#41; |)
+
+[//]: # (| 05: Visualization                               | 21/02        | [Here]&#40;https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing&#41; |)
+
+[//]: # (| 06: Sampling, Modeling, Ordinary Least Squares  | 28/02        | [Here]&#40;https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing&#41; |)
+
+[//]: # (| 07: Ordinary Least Squares                      | 06/03        | [Here]&#40;https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing&#41; |)
+
+[//]: # (| 08: Midterm Review                              | 13/03        | No Slides, only boardworks|)
+
+[//]: # (| 09: HCE, Feature Engineering                    | 20/03        | [Here]&#40;https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing&#41; |)
+
+[//]: # (| 10: RV, Bias-Variance Tradeoff                  | 03/04        | [Here]&#40;https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing&#41; |)
+
+[//]: # (| 11: SQL                                         | 10/04        | [Here]&#40;https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing&#41; |)
+
+[//]: # (| 12: Logistic Regression                         | 17/04        | [Here]&#40;https://docs.google.com/presentation/d/1hk6_eRJNyrieGDhbT6mj9cFD9v3QjG1Wkv819obV8aE/edit?usp=sharing&#41; |)
+
+[//]: # (| 13: PCA                                         | 24/04        | [Here]&#40;https://docs.google.com/presentation/d/1ucIcXpRBLtCC5TajoverkUgu2c0N6uB395twd0WJGPc/edit?usp=sharing&#41; |)
 
 CSM EECS 16A
 ======
