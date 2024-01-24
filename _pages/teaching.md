@@ -19,7 +19,7 @@ Here is a table of resources that I have publicized during that section:
 
 | Section Number: Title                          | Section Date | Slides         |
 |------------------------------------------------|--------------|----------------|
-| 01: Linear Algebra Review                      | 24/01        | Not public yet |
+| 01: Linear Algebra Review                      | 24/01        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing)       |
 | 02: Pandas                                     | 31/01        | Not public yet |
 | 03: Pandas II                                  | 07/02        | Not public yet |
 | 04: Data Wrangling                             | 14/02        | Not public yet |
@@ -33,36 +33,6 @@ Here is a table of resources that I have publicized during that section:
 | 12: Logistic Regression                        | 17/04        | Not public yet |
 | 13: PCA                                        | 24/04        | Not public yet |
 
-[//]: # ()
-[//]: # (| Section Number: Title                           | Section Date | Slides                                                                                                       |)
-
-[//]: # (|-------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|)
-
-[//]: # (| 01: Linear Algebra Review                       | 24/01        | [Here]&#40;https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing&#41; |)
-
-[//]: # (| 02: Pandas                                      | 31/01        | [Here]&#40;https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing&#41; |)
-
-[//]: # (| 03: Content is Previewed at Section 02 already. | 07/02        | N/A                                                                                                          |)
-
-[//]: # (| 04: Data Wrangling                              | 14/02        | [Here]&#40;https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing&#41; |)
-
-[//]: # (| 05: Visualization                               | 21/02        | [Here]&#40;https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing&#41; |)
-
-[//]: # (| 06: Sampling, Modeling, Ordinary Least Squares  | 28/02        | [Here]&#40;https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing&#41; |)
-
-[//]: # (| 07: Ordinary Least Squares                      | 06/03        | [Here]&#40;https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing&#41; |)
-
-[//]: # (| 08: Midterm Review                              | 13/03        | No Slides, only boardworks|)
-
-[//]: # (| 09: HCE, Feature Engineering                    | 20/03        | [Here]&#40;https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing&#41; |)
-
-[//]: # (| 10: RV, Bias-Variance Tradeoff                  | 03/04        | [Here]&#40;https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing&#41; |)
-
-[//]: # (| 11: SQL                                         | 10/04        | [Here]&#40;https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing&#41; |)
-
-[//]: # (| 12: Logistic Regression                         | 17/04        | [Here]&#40;https://docs.google.com/presentation/d/1hk6_eRJNyrieGDhbT6mj9cFD9v3QjG1Wkv819obV8aE/edit?usp=sharing&#41; |)
-
-[//]: # (| 13: PCA                                         | 24/04        | [Here]&#40;https://docs.google.com/presentation/d/1ucIcXpRBLtCC5TajoverkUgu2c0N6uB395twd0WJGPc/edit?usp=sharing&#41; |)
 
 CSM EECS 16A
 ======
