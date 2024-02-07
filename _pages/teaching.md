@@ -17,21 +17,21 @@ My section (is expected) to be at **Etcheverry 3105, Wednesday, 11am-12pm**.\
 
 Here is a table of resources that I have publicized during that section: 
 
-| Section Number: Title                          | Section Date | Slides         |
-|------------------------------------------------|--------------|----------------|
-| 01: Linear Algebra Review                      | 24/01        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing)       |
-| 02: Pandas                                     | 31/01        | Not public yet |
-| 03: Pandas II                                  | 07/02        | Not public yet |
-| 04: Data Wrangling                             | 14/02        | Not public yet |
-| 05: Visualization                              | 21/02        | Not public yet |
-| 06: Sampling, Modeling, Ordinary Least Squares | 28/02        | Not public yet |
-| 07: Ordinary Least Squares                     | 06/03        | Not public yet |
-| 08: Midterm Review                             | 13/03        | Not public yet |
-| 09: HCE, Feature Engineering                   | 20/03        | Not public yet |
-| 10: RV, Bias-Variance Tradeoff                 | 03/04        | Not public yet |
-| 11: SQL                                        | 10/04        | Not public yet |
-| 12: Logistic Regression                        | 17/04        | Not public yet |
-| 13: PCA                                        | 24/04        | Not public yet |
+| Section Number: Title                          | Section Date | Slides                                                                                                       |
+|------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
+| 01: Linear Algebra Review                      | 24/01        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing) |
+| 02: Pandas                                     | 31/01        | [Here](https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing) |
+| 03: RegEx and Data Wrangling                   | 07/02        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
+| 04: Data Wrangling                             | 14/02        | Not public yet                                                                                               |
+| 05: Visualization                              | 21/02        | Not public yet                                                                                               |
+| 06: Sampling, Modeling, Ordinary Least Squares | 28/02        | Not public yet                                                                                               |
+| 07: Ordinary Least Squares                     | 06/03        | Not public yet                                                                                               |
+| 08: Midterm Review                             | 13/03        | Not public yet                                                                                               |
+| 09: HCE, Feature Engineering                   | 20/03        | Not public yet                                                                                               |
+| 10: RV, Bias-Variance Tradeoff                 | 03/04        | Not public yet                                                                                               |
+| 11: SQL                                        | 10/04        | Not public yet                                                                                               |
+| 12: Logistic Regression                        | 17/04        | Not public yet                                                                                               |
+| 13: PCA                                        | 24/04        | Not public yet                                                                                               |
 
 
 CSM EECS 16A
