@@ -22,12 +22,12 @@ Here is a table of resources that I have publicized during that section:
 | 01: Linear Algebra Review                      | 24/01        | [Here](https://docs.google.com/presentation/d/1ZJ0uoHzahc0umzERgyuK9V8q22DwdqhDs120gNS7ZQA/edit?usp=sharing) |
 | 02: Pandas                                     | 31/01        | [Here](https://docs.google.com/presentation/d/1RRDPAJHOfQ7HsoZ3FYzPFZQFM2NnuYEtUOYgFADWWWs/edit?usp=sharing) |
 | 03: RegEx and Data Wrangling                   | 07/02        | [Here](https://docs.google.com/presentation/d/1qQDfIoGgkynFjYsFPQmEANkzghTqpkiZD6I-dXZkMFc/edit?usp=sharing) |
-| 04: Data Wrangling                             | 14/02        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
-| 05: Visualization                              | 21/02        | Not public yet                                                                                               |
-| 06: Sampling, Modeling, Ordinary Least Squares | 28/02        | Not public yet                                                                                               |
-| 07: Ordinary Least Squares                     | 06/03        | Not public yet                                                                                               |
-| 08: Midterm Review                             | 13/03        | Not public yet                                                                                               |
-| 09: HCE, Feature Engineering                   | 20/03        | Not public yet                                                                                               |
+| 04: Visualization                              | 14/02        | [Here](https://docs.google.com/presentation/d/1Q2kdqB_pm9IFnpZl6fWtDJyxjx6EjEVBfOfsNJdMv4s/edit?usp=sharing) |
+| 05: Sampling, Modeling, Ordinary Least Squares | 21/02        | [Here](https://docs.google.com/presentation/d/1KKuXGmnNGL0H93-WVxEH-q39FMmdwy4xYPm-4LKrIG4/edit?usp=sharing) |
+| 06: Ordinary Least Squares                     | 28/02        | [Here](https://docs.google.com/presentation/d/1edKvxsfpitbVEpGsPn0tHcRCanfmKW29VZ7upQ-o4zI/edit?usp=sharing) |
+| 07: Midterm Review                             | 06/03        | Not public yet                                                                                               |
+| 08: HCE, Feature Engineering                   | 13/03        | Not public yet                                                                                               |
+| 09: ?                                          | 20/03        | Not public yet                                                                                               |
 | 10: RV, Bias-Variance Tradeoff                 | 03/04        | Not public yet                                                                                               |
 | 11: SQL                                        | 10/04        | Not public yet                                                                                               |
 | 12: Logistic Regression                        | 17/04        | Not public yet                                                                                               |
