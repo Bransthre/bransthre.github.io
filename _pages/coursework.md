@@ -15,7 +15,7 @@ Only courses with exceptional (beyond-A) grades are marked so.
 **COGSCI 132**
 **COM LIT 60AC**
 **INFO 103**
-(This semester's schedule is a bit less technical! Because (1) I am preparing for a third research position, and (2) My cognitive science electives need to be completed at some point, and many of them are by nature less technical.)
+(This semester's schedule is a bit less technical! Because (1) I am trying to give more time to research, and (2) My cognitive science electives need to be completed at some point, and many of them are by nature less technical.)
 
 ### Fall 2023
 *Note: enrollment for Fall 2023 semester is ongoing.
