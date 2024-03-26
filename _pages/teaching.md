@@ -10,7 +10,7 @@ This section hosts pedagogical resources that I have publicized during my underg
 
 DATA C100
 ======
-In Fall 2023, I hosted (or am hosting, depends on the time this is read) a discussion section.\
+In Fall 2023, I hosted a discussion section.\
 In Spring 2024, I am hosting a discussion section as well.
 My section (is expected) to be at **Etcheverry 3105, Wednesday, 11am-12pm**.\
 *Note: Unfortunately, I have a lab meeting right after this discussion section, so please send me emails or post on Ed instead if you have any questions :p
