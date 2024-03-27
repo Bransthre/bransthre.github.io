@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am Brandon
 ======
-I am a third-year undergraduate double majoring in Cognitive Science and Computer Science at U.C. Berkeley.
+I am a (Taiwanese) third-year undergraduate double majoring in Cognitive Science and Computer Science at U.C. Berkeley.
 (You may see my publications from my CV.)
 
 My research experience and areas have a somehow stark difference: one being a human-centered field, another being a robot-centered one.
