@@ -40,7 +40,8 @@ As a former Senior Content Mentor and a current course coordinator in CSM EECS 1
 regarding content production and teaching 16A. A list of publicized resources follow.\
 Note: Documentations are not publicized.
 ## Worksheet Problems
-WIP (There is A LOT)
+[Here](https://drive.google.com/file/d/1-aqYUEP21PiCLoAGVdQzNmIJRM7AsG87/view?usp=sharing) is a list of problems that I have written for CSM16A. \
+I also write some exam problems for DATA C100, which I will only specify after the associated school year has passed and when exam solutions are publicized (so for now, no links here).
 
 ## Exam Reviews
 FA22 Finals Review Session, Cohosted with several other colleagues: [here](https://www.youtube.com/watch?v=fTJHXGv5iUM)
