@@ -29,7 +29,7 @@ Here is a table of resources that I have publicized during that section:
 | 08: Gradient Descent                           | 13/03        | Elicited out of Section 6                                                                                    |
 | 09: Overfit, Underfit, Random Variables        | 20/03        | [Here](https://docs.google.com/presentation/d/1axck0wU3Um5q-UZ51qRGmUGosfopOQpSl1oFyQxF8dQ/edit?usp=sharing) |
 | 10: Bias-Variance Tradeoff                     | 03/04        | [Here](https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing) |
-| 11: SQL                                        | 10/04        | Not public yet                                                                                               |
+| 11: SQL                                        | 10/04        | [Here](https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing) |
 | 12: Logistic Regression                        | 17/04        | Not public yet                                                                                               |
 | 13: PCA and Clustering                         | 24/04        | Not public yet                                                                                               |
 
