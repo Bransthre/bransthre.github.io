@@ -31,7 +31,7 @@ Here is a table of resources that I have publicized during that section:
 | 10: Bias-Variance Tradeoff                     | 03/04        | [Here](https://docs.google.com/presentation/d/1OwKS9taxmjGVSw76EUrpAjn0PwOQIT2p_fW9XAFaojw/edit?usp=sharing) |
 | 11: SQL                                        | 10/04        | [Here](https://docs.google.com/presentation/d/1xChPkB9DS9BBAcDS6hMXqLeTndnfJDeNQkCM9JF6Izs/edit?usp=sharing) |
 | 12: Logistic Regression                        | 17/04        | [Here](https://docs.google.com/presentation/d/1hk6_eRJNyrieGDhbT6mj9cFD9v3QjG1Wkv819obV8aE/edit?usp=sharing) |
-| 13: PCA and Clustering                         | 24/04        | Not public yet                                                                                               |
+| 13: PCA and Clustering                         | 24/04        | [Here](https://docs.google.com/presentation/d/1ucIcXpRBLtCC5TajoverkUgu2c0N6uB395twd0WJGPc/edit?usp=sharing) |
 
 
 CSM EECS 16A
