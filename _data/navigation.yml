@@ -11,3 +11,6 @@ main:
 
   - title: "CV"
     url: /resume
+
+  - title: "Projects"
+    url: /year-archive/
