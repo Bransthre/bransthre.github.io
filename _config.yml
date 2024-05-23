@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Brandon's Academic Website"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Dun-Ming Brandon Huang"
-description              : &description "I am a rising junior studying Cognitive Science and Computer Science at UC Berkeley, and am also an undergrduate instructor and researcher."
+description              : &description "I am an undergraduate at UC Berkeley studying Cognitive Science and Computer Science, while also being a researcher and an instructor at university. I graduate Spring 2025."
 url                      : https://bransthre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Bransthre/bransthre.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Berkeley, CA"
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=MiUEfEQAAAAJ&hl=en"
   email            : "dunmingbrandonhuang@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@dun-minghuang9832"
   wikipedia        :
 
 
