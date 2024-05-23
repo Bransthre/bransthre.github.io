@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Personal Resources"
-    url: /student/
-
-  - title: "Coursework"
-    url: /coursework/
-
-  - title: "CV"
-    url: /resume
+#  - title: "Teaching"
+#    url: /teaching/
+#
+#  - title: "Personal Resources"
+#    url: /student/
+#
+#  - title: "Coursework"
+#    url: /coursework/
+#
+#  - title: "CV"
+#    url: /resume
