@@ -8,7 +8,7 @@ redirect_from:
 
 ## List of Courses as an Undergraduate
 This page hosts a list of courseworks I have currently taken as an undergraduate.
-Only courses with exceptional (beyond-A) grades are marked so.
+I didn't take a crazy technical-centered schedule, but it isn't necessarily only a disadvantage.
 
 | Semester    | Course Name  | Obtained Grade | Notes(/Excuses)                                   |
 |-------------|--------------|----------------|---------------------------------------------------|
@@ -38,23 +38,27 @@ Only courses with exceptional (beyond-A) grades are marked so.
 | Spring 2024 | COMPLIT 60AC | P              |                                                   |
 
 ## List of Activities per Semester
+A list of extracurricular activities per semester.
+Despite frequent participation, I don't write a lot about education yet because (1) some events encourage me to keep education-side of career a bit less public, and (2) I don't have that much experience to write about yet.
 
-| Semester    | Activity Name                                                    |
-|-------------|------------------------------------------------------------------|
-| Spring 2022 | Academic Intern @CS61A                                           |
-| Spring 2022 | Student Instructor @CSM16A                                       |
-| Summer 2022 | Private Tutor (CS61A)                                            |
-| Fall 2022   | Course Reader @EECS16A                                           |
-| Fall 2022   | Senior Content Writer @CSM16A                                    |
-| Fall 2022   | Data Science Discovery Program @Creative Commons                 |
-| Spring 2023 | Course Reader @DATAC100                                          |
-| Spring 2023 | Leading Senior Content Writer @CSM16A                            |
-| Summer 2023 | Research Intern @Max Planck Institute for Empirical Aesthetics   |
-| Fall 2023   | Undergraduate Researcher @Robotics Learning Lab (BAIR)           |
-| Fall 2023   | Collaborator @Max Planck Institute for Empirical Aesthetics      |
-| Fall 2023   | Course Coordinator @CSM16A                                       |
-| Spring 2024 | Undergraduate Researcher @Robotics Learning Lab (BAIR)           |
-| Spring 2024 | Collaborator @Max Planck Institute for Empirical Aesthetics      |
-| Spring 2024 | Course Coordinator @CSM16A                                       |
-| Summer 2024 | Undergraduate Researcher @Robotics Learning Lab (BAIR)           |
-| Summer 2024 | Guest Affiliation @Max Planck Institute for Empirical Aesthetics |                                             |
+| Semester    | Activity Name                                                              |
+|-------------|----------------------------------------------------------------------------|
+| Spring 2022 | [education] Academic Intern @CS61A                                         |
+| Spring 2022 | [education] Student Instructor @CSM16A                                     |
+| Summer 2022 | [education] Private Tutor (CS61A)                                          |
+| Fall 2022   | [education] Course Reader @EECS16A                                         |
+| Fall 2022   | [education] Senior Content Writer @CSM16A                                  |
+| Fall 2022   | [external] Data Science Discovery Program @Creative Commons         |
+| Spring 2023 | [education] Course Reader @DATAC100                                        |
+| Spring 2023 | [education] Leading Senior Content Writer @CSM16A                          |
+| Summer 2023 | [research] Research Intern @Max Planck Institute for Empirical Aesthetics  |
+| Fall 2023   | [research] Undergraduate Researcher @Robotics Learning Lab (BAIR)          |
+| Fall 2023   | [research] Collaborator @Max Planck Institute for Empirical Aesthetics     |
+| Fall 2023   | [education] Course Coordinator @CSM16A                                     |
+| Fall 2023   | [education] Undergraduate Student Insturctor (UCS2) @DATA C100             |
+| Spring 2024 | [research] Undergraduate Researcher @Robotics Learning Lab (BAIR)          |
+| Spring 2024 | [research] Collaborator @Max Planck Institute for Empirical Aesthetics     |
+| Spring 2024 | [education] Course Coordinator @CSM16A                                     |
+| Spring 2024 | [education] Undergraduate Student Insturctor (UCS2) @DATA C100             |
+| Summer 2024 | [research] Undergraduate Researcher @Robotics Learning Lab (BAIR)          |
+| Summer 2024 | [research] Guest Affiliation @Max Planck Institute for Empirical Aesthetics |                                             |
