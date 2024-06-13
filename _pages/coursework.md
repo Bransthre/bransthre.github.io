@@ -10,32 +10,32 @@ redirect_from:
 This page hosts a list of courseworks I have currently taken as an undergraduate.
 I didn't take a crazy technical-centered schedule, but it isn't necessarily only a disadvantage.
 
-| Semester    | Course Name  | Obtained Grade | Notes(/Excuses)                                   |
-|-------------|--------------|----------------|---------------------------------------------------|
-| Fall 2021   | COMPSCI 61A  | A              |                                                   |
-| Fall 2021   | DATA C8      | A              |                                                   |
-| Fall 2021   | EECS 16A     | A              |                                                   |
-| Fall 2021   | English R1A  | A              |                                                   |
-| Spring 2022 | COMPSCI 61B  | A              |                                                   |
-| Spring 2022 | MATH 53      | A+             |                                                   |
-| Spring 2022 | EECS 16B     | A              |                                                   |
-| Spring 2022 | ENGLISH R1B  | A              |                                                   |
-| Fall 2022   | COMPSCI 70   | A+             |                                                   |
-| Fall 2022   | COMPSCI 375  | A              |                                                   |
-| Fall 2022   | DATA C100    | A+             | I am currently TAing this class!                  |
-| Fall 2022   | COGSCI 1B    | A+             |                                                   |
-| Spring 2023 | EECS 127     | A+ (PR >= 98)  | We have made a course project here (see CV)       |
-| Spring 2023 | COMPSCI 189  | A+             |                                                   |
-| Spring 2023 | MCB C61      | A-             | No excuse...                                      |
-| Spring 2023 | LING 100     | A+             |                                                   |
-| Fall 2023   | COMPSCI 61C  | A+             |                                                   |
-| Fall 2023   | COMPSCI 285  | A              | We have written a project for this course (see CV) |
-| Fall 2023   | COGSCI C100  | A              |                                                   |
-| Fall 2023   | ISF 100A     | P              |                                                   |
-| Spring 2024 | EECS 126     | A+             |                                                   |
-| Spring 2024 | COGSCI 132   | A+             |                                                   |
-| Spring 2024 | INFO 103     | A              |                                                   |
-| Spring 2024 | COMPLIT 60AC | P              |                                                   |
+| Semester    | Course Name  | Obtained Grade | Notes(/Excuses/Short Review)                                                        |
+|-------------|--------------|----------------|-------------------------------------------------------------------------------------|
+| Fall 2021   | COMPSCI 61A  | A              |                                                                                     |
+| Fall 2021   | DATA C8      | A              |                                                                                     |
+| Fall 2021   | EECS 16A     | A              | I became a course coordinator for this course eventually.                           |
+| Fall 2021   | English R1A  | A              |                                                                                     |
+| Spring 2022 | COMPSCI 61B  | A              |                                                                                     |
+| Spring 2022 | MATH 53      | A+             | Highly recommend this semester's professor.                                         |
+| Spring 2022 | EECS 16B     | A              |                                                                                     |
+| Spring 2022 | ENGLISH R1B  | A              |                                                                                     |
+| Fall 2022   | COMPSCI 70   | A+             | This was over strike.                                                               |
+| Fall 2022   | COMPSCI 375  | A              |                                                                                     |
+| Fall 2022   | DATA C100    | A+             | I am currently TAing this class!                                                    |
+| Fall 2022   | COGSCI 1B    | A+             |                                                                                     |
+| Spring 2023 | EECS 127     | A+ (PR >= 98)  | We have made a course project here (see CV)                                         |
+| Spring 2023 | COMPSCI 189  | A+             |                                                                                     |
+| Spring 2023 | MCB C61      | A-             | No excuse...                                                                        |
+| Spring 2023 | LING 100     | A+             |                                                                                     |
+| Fall 2023   | COMPSCI 61C  | A+             | IT IS ALL ABOUT THE LAYERS OF ABSTRACTION                                           |
+| Fall 2023   | COMPSCI 285  | A              | We have written a project for this course (see CV)                                  |
+| Fall 2023   | COGSCI C100  | A              |                                                                                     |
+| Fall 2023   | ISF 100A     | P              | IS requirement for undergraduates, P/NP'd for throughput conservation.              |
+| Spring 2024 | EECS 126     | A+             | Content-wise, most fun class I've taken, but they removed a lot of contents too :') |
+| Spring 2024 | COGSCI 132   | A+             |                                                                                     |
+| Spring 2024 | INFO 103     | A              | Admin-wise, best class I've taken (paralleled by DATA C100).                        |
+| Spring 2024 | COMPLIT 60AC | P              | AC requirement for undergraduates, P/NP'd for throughput conservation.              |
 
 ## List of Activities per Semester
 A list of extracurricular activities per semester.
