@@ -11,11 +11,11 @@ This section hosts pedagogical resources that I have publicized during my underg
 DATA C100
 ======
 In Fall 2023, I hosted a discussion section.\
-In Spring 2024, I am hosting a discussion section as well.
-My section (is expected) to be at **Etcheverry 3105, Wednesday, 11am-12pm**.\
-*Note: Unfortunately, I have a lab meeting right after this discussion section, so please send me emails or post on Ed instead if you have any questions :p
+In Spring 2024, my section was at **Etcheverry 3105, Wednesday, 11am-12pm**.\
+In Fall 2024, I will continue teaching this course, and likely begin leading other taskforces within course staff.
 
-Here is a table of resources that I have publicized during that section: 
+Here is a table of resources that I have publicized during Spring 2024's section.
+Over August, I will start transferring some slides into Microsoft PowerPoint for ease of maintain, and start scheduling their releases.
 
 | Section Number: Title                          | Section Date | Slides                                                                                                       |
 |------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
@@ -38,18 +38,14 @@ CSM EECS 16A
 ======
 As a former Senior Content Mentor and a current course coordinator in CSM EECS 16A team, I have created some resources
 regarding content production and teaching 16A. A list of publicized resources follow.\
-Note: Documentations are not publicized.
+Our documentation is internal, therefore not publicized here, but I have authored around 50% of it so far.
+
 ## Worksheet Problems
-[Here](https://drive.google.com/file/d/1-aqYUEP21PiCLoAGVdQzNmIJRM7AsG87/view?usp=sharing) is a list of problems that I have written for CSM16A. \
-I also write some exam problems for DATA C100, which I will only specify after the associated school year has passed and when exam solutions are publicized (so for now, no links here).
+[Here](https://drive.google.com/file/d/1-aqYUEP21PiCLoAGVdQzNmIJRM7AsG87/view?usp=sharing) is a list of problems that I have written for CSM16A (which may have some erroneous solutions due to typo's or missed commits in our [repository (link only available for CSM-affiliated users)](https://github.com/csmberkeley/csm-16a-v2)).
 
-## Exam Reviews
+## Other Videos
 FA22 Finals Review Session, Cohosted with several other colleagues: [here](https://www.youtube.com/watch?v=fTJHXGv5iUM)
-
-## Exam Walkthroughs
 EECS 16A SP22 Finals Walkthrough: [here](https://www.youtube.com/watch?v=EKBL9izmfgg&list=PL2Zt5-p8lNzSk01oL5AtRa4nzovw06sQG&pp=iAQB)\
 EECS 16A FA21 Finals Walkthrough: [here](https://www.youtube.com/watch?v=0Vbe1sPvLPU&list=PL2Zt5-p8lNzTiFKXYYYSaj2t7mbFRWJka&pp=iAQB)
-
-## LaTeX
 General LaTeX Walkthrough: [here](https://www.youtube.com/watch?v=CD9vNUgN33Q&list=PL2Zt5-p8lNzQ0ccnHPR-0PfjxCIk9tUHr&pp=iAQB)\
 Circuitikz Tutorial: [here](https://www.youtube.com/watch?v=1tY3SBO3Gr4)
