@@ -1,5 +1,5 @@
 ---
-title: '[COMPSCI 180] Project F: NeRF
+title: '[COMPSCI 180] Project F: NeRF'
 date: 2024-12-12
 permalink: /posts/cs180-nerf/
 tags:
