@@ -19,7 +19,7 @@ Here is a table of resources that I have publicized during Spring 2025's section
 
 | Section Number: Title                          | Section Date | Slides                                                                                                       |
 |------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
-| 01: Linear Algebra Review                      | Jan. 30        | Preparing |
+| 01: Linear Algebra Review                      | Jan. 30        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/ESQKGTeyfhlJg9sI_vrISUoBA9y0vZMwMjNU4FJI8wkJLg?e=aoiET1) |
 | 02: Pandas                                     | Feb. 06        | Preparing |
 | 03: RegEx and Data Wrangling                   | Feb. 13        | Preparing |
 | 04: Visualization                              | Feb. 20        | Preparing |
