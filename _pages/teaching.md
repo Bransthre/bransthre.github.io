@@ -21,7 +21,7 @@ Here is a table of resources that I have publicized during Spring 2025's section
 |------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------|
 | 01: Linear Algebra Review                      | Jan. 30        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/ESQKGTeyfhlJg9sI_vrISUoBA9y0vZMwMjNU4FJI8wkJLg?e=aoiET1) |
 | 02: Pandas                                     | Feb. 06        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/EWYnfe7Hv_NKgevPDNoymysBVA1x2mHQ07koTKYbBDV2dA?e=Bhy2lr) |
-| 03: RegEx and Data Wrangling                   | Feb. 13        | Preparing |
+| 03: RegEx and Data Wrangling                   | Feb. 13        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/EWGikm4LzyFAoOd9jkEUWB4B0j7xhTAZIdU-6ypzIffGxA?e=WUE9m0) |
 | 04: Visualization                              | Feb. 20        | Preparing |
 | 05: Sampling, Modeling, Ordinary Least Squares | Feb. 27        | Preparing |
 | 06: Ordinary Least Squares                     | Mar. 06        | Preparing |
