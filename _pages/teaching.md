@@ -26,7 +26,7 @@ Here is a table of resources that I have publicized during Spring 2025's section
 | 05: Sampling, Modeling, Ordinary Least Squares | Feb. 27        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/Eeq2LXbm789KoboT8SEZERIB0LHPP8WiZ4UePGZ6cYsY9Q?e=1Pj7Zd) |
 | 06: Ordinary Least Squares                     | Mar. 06        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/EcM8Gh2eZV9Ih5s9JpMJjUQBFkHAgmE-1z0gNT1vx1mDxw?e=nRhE1N) |
 | 07: Midterm Review                             | Mar. 13        | Shares the same slide with all above topics. |
-| 08: Gradient Descent                           | Mar. 20        | Preparing |
+| 08: Gradient Descent                           | Mar. 20        | [Here](https://1drv.ms/p/c/b131fdc900aa7401/EcM8Gh2eZV9Ih5s9JpMJjUQBFkHAgmE-1z0gNT1vx1mDxw?e=nRhE1N) |
 | 09: Overfit, Underfit, Random Variables        | Apr. 03        | Preparing |
 | 10: Bias-Variance Tradeoff                     | Apr. 10        | Preparing |
 | 11: SQL                                        | Apr. 17        | Preparing |
