@@ -20,7 +20,7 @@ Currently, my research interest is a union of two directions:
 1. How can we help high-DoF robots learn more efficiently?
 2. Once they learn to do things efficiently, how can we smooth their integration into human society?
 
-That said, my interest is largely focused at the intersection of robot learning and human-robot interaction.
+That said, my work is largely focused at the intersection of robot learning and human-computer interaction.
 
 These interest was the result of several inspirations received from my time at labs across cognitive science and computer science:
 - [Computational Audition Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at MPI for Empirical Aesthetics
