@@ -22,7 +22,7 @@ Currently, my research interest is a union of two directions:
 
 These interest was the result of several inspirations received from my time at labs across cognitive science and computer science (in chronological order):
 - [Computational Audition Group](https://www.aesthetics.mpg.de/en/research/research-group-computational-auditory-perception.html) at MPI for Empirical Aesthetics, advised by Prof. [Nori Jacoby](https://www.norijacoby.com/)
-- [Robot Learning Lab](https://rll.berkeley.edu/) at UC Berkeley, advised by Prof. [Nori Jacoby].(https://www.norijacoby.com/), Prof. [Carmelo Sferrazza](https://sferrazza.cc/) and Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).
+- [Robot Learning Lab](https://rll.berkeley.edu/) at UC Berkeley, advised by Prof. [Carmelo Sferrazza](https://sferrazza.cc/) and Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).
 - [Robot Vision & Learning Lab](https://rvl.cs.toronto.edu/) at University of Toronto, currently advised by Prof. [Florian Shkurti](https://www.cs.toronto.edu/~florian/).
 
 ***Otherwise, I was largely invested in teaching.***
